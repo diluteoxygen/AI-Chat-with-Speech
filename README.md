@@ -45,8 +45,7 @@ The script will prompt you to enter a text input. Once you've entered your text,
 ## Demo
 
 
+https://user-images.githubusercontent.com/82773456/224442090-420ec9c5-1fe3-48f7-a74c-88b670bb2828.mp4
 
-
-https://user-images.githubusercontent.com/82773456/224436526-35c0d917-7df2-4518-b868-d45ec723b22e.mp4
 
 
